@@ -4,7 +4,7 @@ Skills learned:
 - Create and style a webpage with HTML and CSS.
 - The benefits of working with UI frameworks.
 
-Skills you'll gain
+Skills gained:
 Category: Version Control
 Category: Github
 Category: Bash (Unix Shell)
