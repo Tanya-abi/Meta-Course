@@ -5,8 +5,8 @@ Skills learned:
 - The benefits of working with UI frameworks.
 
 Skills gained:
-Category: Version Control
-Category: Github
-Category: Bash (Unix Shell)
-Category: Web Development
-Category: Linux
+- Version Control
+- Github
+- Bash (Unix Shell)
+- Web Development
+- Linux
